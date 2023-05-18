@@ -568,6 +568,7 @@ img::-moz-selection {
     width: 100%;
     height: 100%; }
   .gradient {
+      display: table;
       /* 设置容器尺寸 - 原理1 */
       width: 100%;
       height: 100%;
