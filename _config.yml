@@ -11,19 +11,13 @@ url: "https://blog.gstar.eu.org"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
-# Comment
-comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: pan8664716
-    # uyan: 2143225  # 有言id,登录有言官网申请
-
 # Social
 social:
-    weibo: pan8664716 
+    # weibo: pan8664716 
     github: pan8664716
-    zhihu: pan8664716
-    juejin: pan8664716
-    jianshu: pan8664716
+    # zhihu: pan8664716
+    # juejin: pan8664716
+    # jianshu: pan8664716
     # twitter: 
     mail: pan8664716@126.com
 
